@@ -1,5 +1,7 @@
 *.csv
 *.txt
+*.psv
+*.pcpsv
 # *.png
 # *.output
 
