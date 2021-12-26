@@ -30,9 +30,10 @@ In total, this resulted in the following usernames being gathered:
 
 * My top artist's top 150 listeners:
     * ~70k usernames
-* My neighborhood searches + key user searches:
+* My neighborhood searches + 11 'random' user neighborhoods:
     * ~250k usernames
-* Top 150 listeners of top artists:
+    * 11 users chosen to represent listening habits of interest like classical, jazz, rap, rock, etc.
+* Top 150 listeners of top 1000 artists of 2021:
     * ~150k usernames
 
 Of these usernames, only ~150k unique usernames were saved in the usernames.csv file, of which only 10k users were used for the first run of artist recommendation. Hopefully these are representative, but further work may be done to expand on this.
