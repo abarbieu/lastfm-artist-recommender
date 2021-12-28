@@ -8,7 +8,7 @@ This project is an extension of the final project for CSC 466 (Knowledge Discove
 2. [Notes on Usernames](#notes-on-usernames)
 3. [Datasets Provided](#datasets-provided)
     1. [artists.tsv](#artiststsv)
-    2. [lastfm_user_scrobbles_10k100_2021.csv](#lastfmuserscrobbles10k1002021csv)
+    2. [lastfm_user_scrobbles_10k100_2021.csv](#lastfm_user_scrobbles_10k100_2021csv)
     3. [lastfm_user_scrobbles_10k200_through2021.csv](#lastfmuserscrobbles10k200through2021csv)
     4. [usernames.csv](#usernamescsv)
 
